@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rolldorado no telemóvel: app PWA, instalação e guia completo on Rolldorado</title>
-    <link>http://localhost:1313/app/</link>
+    <link>https://roll-dorado-casino.pt/app/</link>
     <description>Recent content in Rolldorado no telemóvel: app PWA, instalação e guia completo on Rolldorado</description>
     <generator>Hugo</generator>
     <language>pt</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/app/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://roll-dorado-casino.pt/app/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
